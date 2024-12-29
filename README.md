@@ -81,6 +81,7 @@ The Laravel framework is open-sourced software licensed under the [MIT license](
    npm install && npm run dev
 
    ```
+   
 3. Create a `.env` file in the project root and set the necessary environment variables such as mailing provider.
 4. Run the database migrations:
    ```bash
