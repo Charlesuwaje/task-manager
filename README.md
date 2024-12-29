@@ -89,6 +89,5 @@ The Laravel framework is open-sourced software licensed under the [MIT license](
 5. Start the development server:
    ```bash
    php artisan serve
-   
    ```
 6. Open your web browser and visit `http://localhost:8000` to access the task manager.
